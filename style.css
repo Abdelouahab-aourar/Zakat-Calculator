@@ -121,7 +121,7 @@ input[type="radio"]:checked + .button-label {
   border: 2px solid black;
 }
 #input{
-    width :350px;
+    width :310px;
     margin-top: 30px;
 }
 #input_block{
@@ -154,4 +154,17 @@ input[type="radio"]:checked + .button-label {
     font-weight: 600;
     margin-top: 10px;
     font-size: 28px;
+}
+@media (max-width: 600px) {
+    footer{
+        display: inline-block;
+        align-items: right;
+        flex-direction: column;
+    }
+    .options{
+        flex-direction: column;
+    }
+    .container{
+        padding-bottom: 100px;
+    }
 }
