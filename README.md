@@ -7,3 +7,13 @@ This project aims to make fulfilling the third pillar of Islam accessible and ac
 🌙 Calculates based on Nisab (النصاب).
 📱 Responsive Design.
 🇸🇦 Arabic user interface (واجهة عربية).
+### How to Use
+Open the webpage.
+Enter your financial details (e.g. amount of money, weight of gold/silver).
+Select the type of zakat you want to calculate.
+Get your zakat obligation instantly.
+### Technologies Used
+HTML5
+CSS3
+JavaScript
+Arabic Text & RTL layout
