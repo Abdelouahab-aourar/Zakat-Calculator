@@ -69,6 +69,7 @@ footer{
     padding-left: 75px;
     display: flex;
     flex-direction: row;
+    align-items: center;
     gap: 10px;
 }
 .links img{
