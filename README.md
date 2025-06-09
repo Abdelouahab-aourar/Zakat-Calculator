@@ -21,3 +21,4 @@ Arabic Text & RTL layout<br>
 For more information about Zakat rules in Algeria, you can visit the official website of [the Ministry of Religious Affairs and Endowments:](https://www.marw.dz/)
 
 # [click here](https://abdelouahab-aourar.github.io/Zakat-Calculator/) To access the webpage.
+Note : This code is only for the fullscreen 16:9.
