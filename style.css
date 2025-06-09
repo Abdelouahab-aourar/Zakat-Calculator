@@ -156,10 +156,28 @@ input[type="radio"]:checked + .button-label {
     font-size: 28px;
 }
 @media (max-width: 600px) {
+    @media (max-width: 600px) {
+    .container h1{
+        font-size: 30px;
+        font-weight: 800;
+    }
+    .container h2{
+        font-size: 22px;
+        font-weight: 800;
+    }
+    footer .declaration{
+        padding-right: 0px;
+    }
+    footer .links{
+        padding-left: 0px;
+    }
     footer{
-        display: inline-block;
-        align-items: right;
         flex-direction: column;
+        align-items: center;
+        font-size: 12px;
+    }
+    .links img{
+    width: 16px;
     }
     .options{
         flex-direction: column;
@@ -167,4 +185,8 @@ input[type="radio"]:checked + .button-label {
     .container{
         padding-bottom: 100px;
     }
+    #result{
+        font-size: 22px;
+    }
+}
 }
